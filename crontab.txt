@@ -1,0 +1,2 @@
+*/10   * * * * /home/ubuntu/learn-terraform-sample-repo/cron1_run.sh >> /home/ubuntu/cron1_log.txt
+*/10   * * * * /home/ubuntu/learn-terraform-sample-repo/cron2_run.sh >> /home/ubuntu/cron2_log.txt
