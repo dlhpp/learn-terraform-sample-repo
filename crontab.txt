@@ -1,4 +1,4 @@
-* * * * * /home/ubuntu/learn-terraform-sample-repo/cron1_run.sh >> /home/ubuntu/learn-terraform-sample-repo/cron1_log.txt
-* * * * * /home/ubuntu/learn-terraform-sample-repo/cron2_run.sh >> /home/ubuntu/learn-terraform-sample-repo/cron2_log.txt
+* * * * * /home/ubuntu/learn-terraform-sample-repo/cron1_run.sh >> /home/ubuntu/learn-terraform-sample-repo/cron1.log
+* * * * * /home/ubuntu/learn-terraform-sample-repo/cron2_run.sh >> /home/ubuntu/learn-terraform-sample-repo/cron2.log
 
-* * * * * /usr/bin/uptime >> /home/ubuntu/learn-terraform-sample-repo/uptime.txt
+* * * * * /usr/bin/uptime >> /home/ubuntu/learn-terraform-sample-repo/uptime.log
