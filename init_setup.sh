@@ -8,5 +8,6 @@ echo '--------------------- init_setup.sh: setting cron schedule ---------------
 crontab < crontab.txt
 crontab -l > cron.backup
 
+echo '--------------------- init_setup.sh: DONE! ---------------------'
 
 
